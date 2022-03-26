@@ -1,4 +1,4 @@
-##AppDiscovery Lab HTML/CSS Style Guide
+## AppDiscovery Lab HTML/CSS Style Guide
 
 We follow Google coding style guidelines for html and css. The style reference can be found at [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
 
